@@ -1,0 +1,53 @@
+User-agent: *
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /calendar/action~undefined/
+Disallow: /calendar/action~http:/
+Disallow: /calendar/action~default/
+Disallow: /calendar/action~poster/
+Disallow: /calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/
+User-agent: *
+Disallow: /8mpncr6
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: http://trevorbrownmusic.com/8mpncr6/sitemap.xml
+
+User-agent: *
+Disallow: /u6wi9wr1
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: http://trevorbrownmusic.com/u6wi9wr1/sitemap.xml
+
+User-agent: *
+Disallow: /bill-goodwin-wshv
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: http://trevorbrownmusic.com/bill-goodwin-wshv/sitemap.xml
+
+User-agent: *
+Disallow: /e0r42
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: http://trevorbrownmusic.com/e0r42/sitemap.xml
+
+User-agent: *
+Disallow: /qxvyqt4
+User-agent: Bingbot
+User-agent: Googlebot
+User-agent: Slurp
+Disallow:
+Sitemap: http://trevorbrownmusic.com/qxvyqt4/sitemap.xml
